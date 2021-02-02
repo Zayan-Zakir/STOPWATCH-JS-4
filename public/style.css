@@ -1,0 +1,343 @@
+body{
+    text-align: center;
+    background-image: url(pict/4.jpg);
+ background-size: stretch;
+/* background-size: cover; */
+ background-repeat: no-repeat;
+overflow: visible;
+}
+
+h1{
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 45px;
+    margin-bottom: 50px;
+    color: rgb(63, 2, 232);
+
+
+}
+h1:hover{
+    cursor: pointer;
+    transform:scale(1.09, 1.09);
+    box-shadow: 0px 0px 20px grey;
+    border: 1px solid rgb(0, 0, 0);
+}
+h2{
+    padding-top: 0px;
+    border-style: dashed;
+    color: #fff;
+    margin-top: 75px;
+    margin: 15px;
+  box-sizing: 50px;
+  height: 170px;
+    font-size: 160px;
+
+    display: inline-block;
+    width: 180px;
+
+  
+}
+button{
+
+    margin: 20px;
+ width: 90px;
+ font-size: 19px;
+ font-weight: bolder;
+ font-family: 'Times New Roman', Times, serif;
+ font-style: italic;
+ padding: 10px;
+ border-radius: 50px;
+ box-shadow: 2px 2px 15px gray;
+ margin-top: 65px;
+ color: green;
+ background-color: #fff;
+ border: 1px solid black;
+ opacity: 0.91;
+ outline: none;
+}
+button:hover{
+    cursor: pointer;
+    transform:scale(1.09, 1.09);
+    box-shadow: 0px 0px 20px grey;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(169, 206, 255);
+    color: rgb(213, 101, 101);
+       opacity: 1;
+}
+
+
+
+
+@media only screen and (max-width: 650px) {
+
+
+    
+h1{
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 45px;
+    margin-bottom: 40px;
+    color: rgb(63, 2, 232);
+
+
+}
+h1:hover{
+    cursor: pointer;
+    transform:scale(1.09, 1.09);
+    box-shadow: 0px 0px 20px grey;
+    border: 1px solid rgb(0, 0, 0);
+}
+h2{
+    padding-top: 0px;
+    border-style: dashed;
+    color: #fff;
+    margin-top: 45px;
+    margin: 15px;
+  box-sizing: 50px;
+  height: 100px;
+    font-size: 90px;
+
+    display: inline-block;
+    width: 90px;
+
+  
+}
+button{
+
+    margin: 10px;
+ width: 85px;
+ font-size: 20px;
+ margin-top: 30px;
+ font-weight: bolder;
+ font-family: 'Times New Roman', Times, serif;
+ font-style: italic;
+ padding: 5px;
+ border-radius: 50px;
+ box-shadow: 2px 2px 15px gray;
+ color: green;
+ border: 1px solid black;
+ opacity: 0.91;
+ outline: none;
+}
+button:hover{
+    cursor: pointer;
+    transform:scale(1.09, 1.09);
+    box-shadow: 0px 0px 20px grey;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(169, 206, 255);
+    color: rgb(213, 101, 101);
+       opacity: 1;
+}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+
+    
+    h1{
+        margin-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 45px;
+        margin-bottom: 40px;
+        color: rgb(63, 2, 232);
+    
+    
+    }
+    h1:hover{
+        cursor: pointer;
+        transform:scale(1.09, 1.09);
+        box-shadow: 0px 0px 20px grey;
+        border: 1px solid rgb(0, 0, 0);
+    }
+    h2{
+        padding-top: 0px;
+        border-style: dashed;
+        color: #fff;
+        margin-top: 45px;
+        margin: 15px;
+      box-sizing: 50px;
+      height: 80px;
+        font-size: 70px;
+    
+        display: inline-block;
+        width: 75px;
+    
+      
+    }
+    button{
+    
+        margin: 10px;
+     width: 65px;
+     font-size: 15px;
+     margin-top: 30px;
+     font-weight: bolder;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: italic;
+     padding: 5px;
+     border-radius: 50px;
+     box-shadow: 2px 2px 15px gray;
+     color: green;
+     border: 1px solid black;
+     opacity: 0.91;
+     outline: none;
+    }
+    button:hover{
+        cursor: pointer;
+        transform:scale(1.09, 1.09);
+        box-shadow: 0px 0px 20px grey;
+        border: 1px solid rgb(0, 0, 0);
+        background-color: rgb(169, 206, 255);
+        color: rgb(213, 101, 101);
+           opacity: 1;
+    }
+    
+    
+    
+    }
+    
+
+
+
+    
+@media only screen and (max-width: 400px) {
+
+
+    
+    h1{
+        margin-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 45px;
+        margin-bottom: 40px;
+        color: rgb(63, 2, 232);
+    
+    
+    }
+    h1:hover{
+        cursor: pointer;
+        transform:scale(1.09, 1.09);
+        box-shadow: 0px 0px 20px grey;
+        border: 1px solid rgb(0, 0, 0);
+    }
+    h2{
+        padding-top: 0px;
+        border-style: dashed;
+        color: #fff;
+        margin-top: 45px;
+        margin: 5px;
+      box-sizing: 50px;
+      height: 80px;
+        font-size: 70px;
+    
+        display: inline-block;
+        width: 75px;
+    
+      
+    }
+    button{
+    
+        margin: 5px;
+     width: 50px;
+     font-size: 10px;
+     margin-top: 30px;
+     font-weight: bolder;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: italic;
+     padding: 5px;
+     border-radius: 50px;
+     box-shadow: 2px 2px 15px gray;
+     color: green;
+     border: 1px solid black;
+     opacity: 0.91;
+     outline: none;
+    }
+    button:hover{
+        cursor: pointer;
+        transform:scale(1.09, 1.09);
+        box-shadow: 0px 0px 20px grey;
+        border: 1px solid rgb(0, 0, 0);
+        background-color: rgb(169, 206, 255);
+        color: rgb(213, 101, 101);
+           opacity: 1;
+    }
+    
+    
+    
+    }
+    
+@media only screen and (max-width: 300px) {
+
+
+    
+    h1{
+        margin-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 45px;
+        margin-bottom: 40px;
+        color: rgb(63, 2, 232);
+    
+    
+    }
+    h1:hover{
+        cursor: pointer;
+        transform:scale(1.09, 1.09);
+        box-shadow: 0px 0px 20px grey;
+        border: 1px solid rgb(0, 0, 0);
+    }
+    h2{
+        padding-top: 0px;
+        border-style: dashed;
+        color: #fff;
+        margin-top: 45px;
+        margin: 10px;
+      box-sizing: 50px;
+      height: 65px;
+        font-size: 50px;
+    
+        display: inline-block;
+        width: 55px;
+    
+      
+    }
+    button{
+    
+        margin: 4px;
+     width: 45px;
+     font-size: 10px;
+     margin-top: 30px;
+     font-weight: bolder;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: italic;
+     padding: 5px;
+     border-radius: 50px;
+     box-shadow: 2px 2px 15px gray;
+     color: green;
+     border: 1px solid black;
+     opacity: 0.91;
+     outline: none;
+    }
+    button:hover{
+        cursor: pointer;
+        transform:scale(1.09, 1.09);
+        box-shadow: 0px 0px 20px grey;
+        border: 1px solid rgb(0, 0, 0);
+        background-color: rgb(169, 206, 255);
+        color: rgb(213, 101, 101);
+           opacity: 1;
+    }
+    
+    
+    
+    }
+    
+    
